@@ -1,153 +1,72 @@
-# IEEE LAUNCHPAD Job Fair
+# Hafis CP
 
+### About Me
 
+> I'm Hafis CP, currently working as Project Associate at IOCOD Infotech Pvt. Ltd. I've a B.Tech Graduate in Computer Science Engineering from College of Engineering Vadakara in 2023. I really love to work with projects which could cause an impact the field of reality. And moreover, I would like to explore more on Product Management and Development. With the knowledge and understanding in the field of IT and having essentials voluntary experiences in the field of Managerial & Leadership, I understood I can bare any circumstances. 
 
+## Portfolio Highlights
 
+### My Projects
 
+| Name                | Description                                                               | Hosted Link                              | Repo Link                                                      |
+|---------------------|---------------------------------------------------------------------------|------------------------------------------|----------------------------------------------------------------|
+| **Foodbay**  | Restaurant Seat Reservation Web App                                              | -    | [Repo](https://github.com/hafiscp/foodbay)             |
+| **Personality Prediction & Resume Analysis**  | As the name says, a combination of personality trait and resume analysis for better onboarding process                                              | -    | [Repo](https://github.com/hafiscp/personality-prediction-and-cv-analysis)             |
+| **Simple Card Generator**  | From Input Data, Generate a Card.                                              | -    | [Repo](https://github.com/ieee-sb-cev/membership-card-generator)             |
+| **Simple React Native App**  | Learning React Native Application Development                                              | -    | [Repo](https://github.com/hafiscp/ReactNative)             |
 
+#### Leadership and Influence:
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+> During the academics phase, from 2019 - 2023, there is no other community or student organisation I've part of in my campus. I've engaged in various voluntary leadership positions in and out my college. Including technical and non-technical organisations.
+>
+> The experiences I've gained from the activities and events I've been part of surely helped me to prepare myself to be a person who can manage, guide, and lead such a group of team. Telling about influencing others, I've been mentored and taught about 500+ students [Maybe more] in various fields including, community managing, technical and non-technical sessions & workshops, discussions, etc. I hope I've succeed in creating such a space for others to figure out what's the point of doing all this activities.
+>
+> Furthermore, I'm still volunteering with few organisation in order to share my knowledge, expertise, and guidance for fullfilling the vision and mission of such organisations.
 
+#### Networking:
+> Community Networking and Engagements are crucial in building the health atmosphere to grow and explore. Everyone is influenced by one another. To grow exponentially, such community spaces are necessary. The time I've anchored and managed a community meetup, I came to understand that I've a potential in engaging and dealing with people just in a matter of time. Listening, Understanding, Acknowledging each other can drastically helps in placing a healthy bonding with anyone.
+>
+> There are various communities and organisations, which are offering free and paid memberships, even after stepping out of college / academics. Working closely with the team of like minded gradually improve the skillsets in networking and community engagements. Letting others know about the oppurtunities and possibilities that these communities offer, and bringing the needy person to such open events can helps them in understanding the effect and impact of in-person experiences.
 
+#### Career Plan:
+> - Finding out the true potential that I can achieve & acquire : within the next year.
+> - Explore more on Product Design, Development, Scale, and Manage.
+> - Helps in growing the organisations I'm part of, there by letting more people to the eco system.
 
 
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
+> - Kerala Startup Ecosystem was opened various possibilities to the people around. It's lot easier than reaching out to seek help and guidance than before. Now people are started to build themselves, rather than primarily focuses on jobs on MNCs.
+> - By the next years to come, we can consider a steady growth in formations of startups. The boom in accessibility to education, knowledge, infrastructure, and mainly access to freebies from various startup initiatives are pillars for this results.
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+#### History of Open Source Contributions:
+> - I've participated in various Hackoberfest activities. But couldn't contribute with higher impact.
+> - Other than those, I've made a few contributions. Most of them are restricted to personal and side project. I wish to try various open source contributions in the future. 
 
-#
+#### History of Community Engagement:
+> - I would say, I'm not such open source community engagements like Quora / StackOverflow / anything yet.
+>
+> But, I've engaged in various voluntary positions. Few are,
+> - Mentor, IEEE SB CEV (April 2023 - Onwards)
+> - Social Media Manager, LucidPixl Designs (June 2022 - Onwards)
+> - Event Management Lead, Pygrammers (March 2021 - Onwards)
+> - Chairperson, IEEE SB CEV (March 2022 - March 2023)
+> - MDC Malabar Hub, IEEE Education Society Kerala Chapter (February 2022 - Dec. 2022)
+> - Chief Operations Officer, IEDC CEV (October 2021 - December 2022)
+> - Student Coordinator, ASAP Cell CEV (March 2022 - December 2022)
+> - Volunteer, NSS CEV (June 2020 - June 2022)
+> - People Management Intern, GTech μLearn (January 2022 - April 2022)
+> - Chief Marketing Officer, IEDC CEV ( September 2020 - October 2021)
+> - Vice Chairperson, IEEE Computer Society SBC CEV (November 2020 - January 2022)
 
+#### Highly Visible Technical Content:
 
+**[AURA 2022 - IEEE SB CEV Magazine](https://online.fliphtml5.com/kxkcv/ljiu/)** | **[Hashnode](https://hafiscp.hashnode.dev/)**
 
 
-<div align="center">
+#### Social Handles
 
-
-
-
-# How to Participate
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
-
-
+**[X](https://twitter.com/hafiscp)** | **[Instagram](https://www.instagram.com/hafis_cp/)** | **[GitHub](https://github.com/hafiscp)** | **[LinkedIn](https://www.linkedin.com/in/hafiscp/)**
 
 ---
